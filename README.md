@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/26268796/187030142-f7b24fdd-8868-4fa6-8d72-1b9f47a22bca.png" alt="Image" width="500" height="520">
 
 
-Navigate to [**case study**](https://8weeksqlchallenge.com/case-study-1/) and [**solution**](https://github.com/Manojksen/8-Week-Sql-Challenge/blob/main/solution1.sql)
+Navigate to [**case study**](https://8weeksqlchallenge.com/case-study-1/) and my [**solution**](https://github.com/Manojksen/8-Week-Sql-Challenge/blob/main/solution1.sql)
 
 ### Business Task:
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. 
