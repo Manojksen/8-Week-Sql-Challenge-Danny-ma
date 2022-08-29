@@ -108,7 +108,7 @@ where order_rank=1
 
 
 
----9.If each $1 spent equates to 10 points and sushi has a 2x points multiplier — how many points would each customer have?
+---9.If each $1 spent equates to 10 points and sushi has a 2x points multiplier â€” how many points would each customer have?
 
  select customer_id,sum(points) from
  (
@@ -124,7 +124,7 @@ where order_rank=1
  
 
  ---10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, 
- ----not just sushi — how many points do customer A and B have at the end of January?
+ ----not just sushi â€” how many points do customer A and B have at the end of January?
 
  select s.customer_id,
  sum(case
@@ -138,6 +138,7 @@ where order_rank=1
  left join members m
  on s.customer_id=m.customer_id
 group by s.customer_id
+
  
 
 
